@@ -107,7 +107,7 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-<br/>
+<br/> <br/>
 
 <img 
     align="left" 
@@ -125,7 +125,7 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
   />  
-<img 
+ <img 
     align="left" 
     alt="Java" 
     title="Java"
