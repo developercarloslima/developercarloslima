@@ -123,7 +123,16 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+<img
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+  />
 <img 
     align="left" 
     alt="PHP" 
@@ -148,6 +157,22 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+  />
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+  />          
 <img
     align="left" 
     alt="Aws" 
