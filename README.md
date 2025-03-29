@@ -68,6 +68,13 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
    style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
+<img
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img 
     align="left" 
     alt="Next.js" 
@@ -100,6 +107,23 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+<br/>
+
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+  />  
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img 
     align="left" 
     alt="PHP" 
@@ -156,10 +180,10 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
 ### 📊 Estatísticas
 
 <p>
-  <img 
+ <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="70%" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=developercarloslima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -167,7 +191,7 @@ Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualme
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=developercarloslima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
