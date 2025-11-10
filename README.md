@@ -1,6 +1,6 @@
 # 👨🏿‍💻 Carlos Lima
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back end`**
 ---
 Me chamo Carlos Roberto F. Lima, tenho 27 anos e sou natural de Alagoas. Atualmente, estou cursando Engenharia de Software na Ampli. Sou apaixonado por tecnologia.
 
